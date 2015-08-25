@@ -1,3 +1,5 @@
+# Created by Eduardo Maia
+# for thedatagame.wordpress.com
 # load library
 library(d3heatmap)
 
